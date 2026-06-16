@@ -13,13 +13,13 @@ A healthcare NGO is about to allocate funds to a hospital that *claims* it has a
 
 ---
 
-## Demo
+## Live Demo
 
-**3-minute walkthrough:** see [`DEMO.md`](DEMO.md)
+**Try it now:** [facility-trust-desk-by-abhishek.streamlit.app](https://facility-trust-desk-by-abhishek.streamlit.app/)
 
-**Live shareable URL example:**
+**Shareable report URL example:**
 ```
-https://<your-app>/trust_report?fid=b8a5401f-42f1-422a-8cd9-686a15b4cb76
+https://facility-trust-desk-by-abhishek.streamlit.app/trust_report?fid=b8a5401f-42f1-422a-8cd9-686a15b4cb76
 ```
 Every trust report is a permanent, shareable link — paste it in a grant application or donor email.
 
@@ -120,7 +120,7 @@ facility-trust-desk/
 ├── .streamlit/secrets.toml.example # Template for Streamlit Cloud secrets
 ├── app.yaml                        # Databricks Apps deployment config
 ├── requirements.txt
-└── DEMO.md                         # 3-minute demo script
+
 ```
 
 ---
